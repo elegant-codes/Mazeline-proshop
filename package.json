@@ -1,0 +1,22 @@
+{
+  "name": "mazeline",
+  "version": "1.0.0",
+  "description": "ecommerce store",
+  "main": "index.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elegant-codes/Mazeline-proshop.git"
+  },
+  "author": "Ajakaye Ayobami",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elegant-codes/Mazeline-proshop/issues"
+  },
+  "homepage": "https://github.com/elegant-codes/Mazeline-proshop#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
