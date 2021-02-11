@@ -22,7 +22,7 @@ const products = [
     category: 'Electronics',
     price: 599.99,
     countInStock: 7,
-    rating: 4.0,
+    rating: 4.3,
     numReviews: 8,
   },
   {
@@ -79,4 +79,4 @@ const products = [
   },
 ]
 
-export default products
+module.exports = products
