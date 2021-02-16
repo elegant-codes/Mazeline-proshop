@@ -4,6 +4,7 @@
   "description": "ecommerce store",
   "main": "index.js",
   "type": "module",
+  
   "scripts": {
     "start": "node backend/server",
     "server": "nodemon backend/server",
